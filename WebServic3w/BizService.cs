@@ -10,7 +10,7 @@ namespace WebServic3w
     {
         public string ShowMessage()
         {
-            return "Test Jenkins Auto Build And Deploy! Success!Second Time!";
+            return "Jenkins New Start";
         }
     }
 }
